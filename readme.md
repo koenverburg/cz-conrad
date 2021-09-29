@@ -6,7 +6,7 @@
 
 ## Acknowledgement
 
-- [cz-emoji](https://github.com/ngryman/cz-emoji) - Created by [Nicolas Gryman](https://github.com/ngryman) without this plugin I would not have created my own.
+- [cz-emoji](https://github.com/ngryman/cz-emoji) - Created by [Nicolas Gryman](https://github.com/ngryman) without he's plugin I would not have created my own.
 
 ## License
 
